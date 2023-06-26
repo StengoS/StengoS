@@ -7,9 +7,7 @@ Hi there! I'm @StengoS/Steven Ngo, and I'm an incoming software engineering Ph.D
 ## Previous Experiences:
 * Modeling human-cyber interactions in safety-critical cyber-physical/industrial control systems w/ Dr. Luis Garcia, USC ISI, and Dr. Dave DeAngelis, Aerospace Corporation (Summer 2022)
   * https://stengos.github.io/files/REUNS_2022_Paper_Ready__CHIMPS_-1.pdf (published in REU Workshop on Networking and Systems 2022, REUNS)
-  
 * XSOC CORP light-weight cryptographic benchmarking w/ Dr. Zachary Peterson, Cal. Poly. SLO (Winter 2021 - Spring 2022)
-  
 * Software security analysis on internet-of-things applications w/ Dr. Phoenix Fang, Cal. Poly. SLO (Summer 2020)
 
 ## Other Things I Wanted to List:
