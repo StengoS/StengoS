@@ -1,8 +1,23 @@
-Hi there! I'm @StengoS/Steven Ngo, software engineering undergrad senior with a minor in psychology at Cal Poly San Luis Obispo. As of fall quarter '22, I am a teaching assistant for CSC321 (Intro to Computer Security) and a research assistant for Dr. Ayaan Kazerouni. With Dr. Kazerouni, we are working on a method of providing targeted mutation testing recommendations of which mutators should be focused on when test case suites have met particular coverage metrics. I am also continuing my research with Dr. Dave DeAngelis and Dr. Luis Garcia at USC Info Sciences Institute, where we are working on modeling human operators' decision-making in safety-critical industrial control systems.
+Hi there! I'm @StengoS/Steven Ngo, and I'm an incoming software engineering Ph.D. student @ UC Irvine advised by Dr. Josh Garcia. I did my undergrad in software engineering w/ a minor in psychology at Cal Poly San Luis Obispo. My exact research directions are still undetermined, but I am highly interested in software security and software developers' mental models, attitudes, and habits. I am also interested in computing education (ed for all, security).
 
-I'm currently applying to computer science Ph.D's and other similar programs with the intent of studying research problems at the intersection of software engineering and software security. I am open to all research experiences, particularly in areas of software engineering and software security, as I explore which topics best align with my personal motivations and background before I choose to specialize. I am also interested in computer security education and security capture-the-flag events!
 
-You can reach me at sngo12@calpoly.edu or stengo46@gmail.com.
+## On-Going Research/Projects:
+* Optimizing mutation testing using conditional coverage w/ Dr. Ayaan Kazerouni, Cal. Poly. SLO (as of Spring 2023)
+
+## Previous Experiences:
+* Modeling human-cyber interactions in safety-critical cyber-physical/industrial control systems w/ Dr. Luis Garcia, USC ISI, and Dr. Dave DeAngelis, Aerospace Corporation (Summer 2022)
+  * https://stengos.github.io/files/REUNS_2022_Paper_Ready__CHIMPS_-1.pdf (published in REU Workshop on Networking and Systems 2022, REUNS)
+  
+* XSOC CORP light-weight cryptographic benchmarking w/ Dr. Zachary Peterson, Cal. Poly. SLO (Winter 2021 - Spring 2022)
+  
+* Software security analysis on internet-of-things applications w/ Dr. Phoenix Fang, Cal. Poly. SLO (Summer 2020)
+
+## Other Things I Wanted to List:
+* I have a pet cat named Honey!
+
+## Contact:
+For any questions on what's going on above or if you'd like to reach out for any reason, here are the best ways to contact me:
+* Emails: sngo12@calpoly.edu (work), stengo46@gmail.com (personal)
 
 <!---
 StengoS/StengoS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
