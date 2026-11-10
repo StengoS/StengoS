@@ -1,6 +1,6 @@
-Hi there! I'm [@StengoS/Steven Ngo](https://stengos.github.io), a third-year software engineering Ph.D. student at the University of California, Irvine (UCI)’s Informatics Department with [Dr. Joshua Garcia](https://jgarcia.ics.uci.edu/) as my advisor ([SORA Lab](https://github.com/Software-Aurora-Lab)). I did my undergrad in software engineering with a minor in psychology at Cal Poly San Luis Obispo. I particularly enjoy research in the areas of software security, developer-centered security, and software engineering & security education.
+Hi there! I'm [@StengoS/Steven Ngo](https://stengos.github.io), a fourth-year software engineering Ph.D. candidate at the University of California, Irvine (UCI)’s Informatics Department with [Dr. Joshua Garcia](https://jgarcia.ics.uci.edu/) as my advisor ([SORA Lab](https://github.com/Software-Aurora-Lab)). I did my undergrad in software engineering with a minor in psychology at Cal Poly San Luis Obispo. I focus on the areas of software security and software engineering & security education.
 
-I have previous experience with threat modeling processes, Android program analysis, open-source security, software mutation testing, cyber-physical systems, and IoT security. 
+I have experience with threat modeling, Android program analysis, open-source security, software mutation testing, cyber-physical systems, and IoT security. 
 
 ## Selected Publications:
 * J. Ayala, **S. Ngo**, J. Garcia. "[A Deep Dive Into How Open-Source Project Maintainers Review and Resolve Bug Bounty Reports](https://arxiv.org/pdf/2409.07670)". *Proceedings of the 46th IEEE Symposium on Security and Privacy (S&P 2025)*. (Acceptance rate: 14.8%)
